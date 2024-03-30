@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: aqua;
+    color: black
+}
+ul {
+    height: 6000px
+    width: 200px
+    float: left
+    padding: 5px
+    line-height: 30px
+}
+h1 {
+    text-align: center;
+}
+#codememe3 {
+    margin-right: 200px;
+}
+footer {
+    text-align: center;
+}
